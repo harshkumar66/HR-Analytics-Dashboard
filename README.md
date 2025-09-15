@@ -92,4 +92,4 @@ This project also demonstrates practical expertise in data visualization, HR ana
 
 Screen Shot / Demos
 
-Show What the dashboard looks like - ![alt text](image.jpg)
+Show What the dashboard looks like - ![alt text](https://github.com/harshkumar66/HR-Analytics-Dashboard/blob/main/HR_Analytics_Performance_Dashboard.png)
